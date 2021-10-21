@@ -1,3 +1,7 @@
+![Alt text](/background.png "Background image with a lot of words related to programing creating a three dimensional spatial effect")
+
+# Luiz Gustavo Turatti
+
 ### Hi there 👋
 
 <!--
