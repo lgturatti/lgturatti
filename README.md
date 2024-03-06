@@ -1,5 +1,5 @@
 <img src="./header.jpg" alt="" width="800" height="200">
-<a href="https://lgturatti.github.io><img src="./coding.png" alt="" width="800" height="200"></a>
+[<img src="./coding.png">](https://lgturatti.github.io)
 
 # Welcome to my repo / Bem-vindo ao meu repositório
 
