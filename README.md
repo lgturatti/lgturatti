@@ -1,7 +1,6 @@
+<img src="./header.jpg" alt="" width="800" height="200">
 <div>
-<iframe src="" title="" width="800" height="200">
-  <img src="./header.jpg" alt="" width="800" height="200">
-</iframe>
+<iframe src="https://lgturatti.github.io" title="" width="800" height="200"> </iframe>
 </div>
 
 # Welcome to my github repo / Bem-vindo ao meu repositório
