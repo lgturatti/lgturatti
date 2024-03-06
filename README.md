@@ -1,6 +1,6 @@
 <img src="./header.jpg" alt="" width="800" height="200">
 
-Click [here](https://example.com) to access my personal page.
+My personal page [page](https://example.com)
 
 # Welcome to my repo / Bem-vindo ao meu repositório
 
