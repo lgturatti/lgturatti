@@ -1,9 +1,7 @@
 <img src="./header.jpg" alt="" width="800" height="200">
+<a href="https://lgturatti.github.io><img src="./coding.png" alt="" width="800" height="200"></a>
 
-<iframe src="https://lgturatti.github.io" title="Main Page" name="welcome" style="border: none;"></iframe>
-
-
-# Welcome to my github repo / Bem-vindo ao meu repositório
+# Welcome to my repo / Bem-vindo ao meu repositório
 
 🇺🇸 
 
